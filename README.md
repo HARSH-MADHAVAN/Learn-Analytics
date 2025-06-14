@@ -1,15 +1,49 @@
-# MySQL Tutorial 🚀
+📊 Learn Analytics 🚀
+Welcome to Learn Analytics — my personal repository documenting my learning journey in the world of Data Analytics! 🎉
 
-Welcome to my **MySQL Tutorial** repository! 🎉
+Here, I explore tools, techniques, and concepts that power data-driven decision making, covering Power BI, SQL, and Excel — three essential pillars in analytics.
 
-This repository is a collection of my learning journey through the world of relational databases, exploring the power and versatility of **MySQL**. Here, you'll find:
+📚 What You'll Find Here
 
-- 🌟 **Beginner-friendly examples** to get started with MySQL.
-- 🛠️ **Hands-on practice** with queries, joins, subqueries, and indexes.
-- 📊 **Database design concepts** with normalization techniques.
-- ⚡ **Advanced topics** like stored procedures, triggers, and performance optimization.
-- 🗂️ **Scripts and schemas** to illustrate real-world use cases.
+🗄️ SQL
+✅ Beginner to advanced SQL queries
 
-Each section reflects my progress as I deepen my understanding of **database design, query optimization**, and the practical applications of SQL in modern development.
+✅ Joins, subqueries, and views
 
-Feel free to explore, fork, or contribute if you'd like to join me on this journey! 😊
+✅ Database design principles & normalization
+
+✅ Stored procedures, triggers, and indexing for optimization
+
+
+📊 Power BI
+✅ Data visualization projects
+
+✅ Hands-on Power Query and Data Model examples
+
+✅ DAX formulas and calculated columns/measures
+
+✅ Dashboards showcasing real-world datasets
+
+
+📑 Excel for Analytics
+✅ Essential functions & formulas
+
+✅ Pivot Tables, charts, and slicers
+
+✅ Data cleaning techniques
+
+✅ Intro to Power Query in Excel
+
+🌟 Why This Repo?
+This repository reflects my hands-on learning journey as I build practical skills in:
+
+📈 Data visualization
+
+🧩 Data modeling
+
+⚡ Query optimization
+
+🛠️ Applying analytics to solve real-world problems
+
+🤝 Contribute or Connect
+Feel free to explore, fork, or contribute if you'd like to collaborate or learn together! Let’s grow in analytics — one dataset at a time. 🚀
